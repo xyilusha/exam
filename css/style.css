@@ -1,4 +1,4 @@
-.image-grid {
+// .image-grid {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
   grid-template-rows: repeat(2, 200px);
@@ -11,3 +11,4 @@
   object-fit: cover;
   border-radius: 8px;
 }
+//
